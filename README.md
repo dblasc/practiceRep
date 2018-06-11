@@ -1,2 +1,3 @@
 # practiceRep
 just learning github...
+Oh! ok, this is pretty cool!
